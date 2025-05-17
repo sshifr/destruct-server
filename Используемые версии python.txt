@@ -1,0 +1,11 @@
+Python 3.9.6
+
+pip 23.3.2
+
+Для скачивания библиотек выполните:
+
+pip install -r requirements.txt
+или
+pip3 install -r requirements.txt
+
+В ПО используем python3
